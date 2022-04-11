@@ -11,6 +11,7 @@
         },
         {
           "name": "hidrodinámica",
+          "qwerty": "00",
           "complexity": "4",
           "interest": "3",
           "bool": "falso"
